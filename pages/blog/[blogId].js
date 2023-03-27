@@ -21,7 +21,7 @@ function BlogId({ blog }) {
             </p>
         </div>
         <button className="text-xl font-Urbanist uppercase bg-transparent hover:bg-blue-700 text-blue-700 hover:text-white py-4 px-14 border border-blue-700 hover:border-transparent rounded">
-        <Link href={'/blog'}>back</Link>
+           <Link href={'/blog'}>back</Link>
         </button>
     </div>
   );
