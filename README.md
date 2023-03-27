@@ -1,6 +1,6 @@
 # Blog
 
-This is a simple project with **Next.js**
+This is a simple project with **Next**
 
 ## Preview
 ### Desktop Mode
