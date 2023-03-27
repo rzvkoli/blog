@@ -5,7 +5,7 @@ This is a simple project with **Next.js**
 ## Preview
 ### Desktop Mode
 
-http://localhost:3000/ ( Home )
+## Path http://localhost:3000/ ( Home )
 ![00](https://user-images.githubusercontent.com/100797809/228086804-6936db2a-45af-4cf0-be08-3e08fdb9559c.png)
 
 http://localhost:3000/blog ( Blog )
