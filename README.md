@@ -1,6 +1,9 @@
 # Blog
 
-This is a simple project with **Next** .
+## Technologies
+
+- **Next**
+- **Tailwind**
 
 ## Preview
 ### Desktop Mode
