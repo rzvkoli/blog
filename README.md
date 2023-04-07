@@ -2,7 +2,7 @@
 
 ## Technologies
 
-- **Next**
+- **Next ( SSG )**
 - **Tailwind**
 
 ## Preview
